@@ -1,0 +1,44 @@
+#solucion_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:right;
+    font-size:24 px;
+    color: #020108;
+    border-radius: 4px;
+}
+
+#eleccion_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:right;
+    font-size:22 px;
+    color: #020108;
+    border-radius: 4px;
+}
+
+#tiempossal_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:right;
+    font-size:22 px;
+    color: #020108;
+    border-radius: 4px;
+}
+
+#display_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:right;
+    font-size:22 px;
+    color: #020108;
+    border-radius: 4px;
+}
+
+#labelprueba{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:right;
+    font-size:22 px;
+    color: #020108;
+    border-radius: 4px;
+}
